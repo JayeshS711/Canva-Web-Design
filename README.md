@@ -11,3 +11,6 @@ It is designed using basic principle such as :
 3) Typography   -  covers how to choose a font for heading and sub-heading, how many fonts should choose to inhibit the principle of web design.
 
 4) UX Design    -  it contains 4 points which are simplicity, consistency, reading pattern such as z pattern, F pattern, all platform design principles.
+ 
+ 
+link to website : https://www.canva.com/design/DAEHd6svuyw/FVU1-NvaoJPFY5jkGh3yCg/view?website#1:andro-s-cafe
